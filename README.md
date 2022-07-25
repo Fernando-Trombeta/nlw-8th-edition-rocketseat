@@ -1,4 +1,6 @@
-Projeto: DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer.
+Projeto desenvolvido na trilha Origin da 8ª edição da NLW (Next Level Week) - Rocketseat.
+
+O Projeto DoctorCare é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micros, pequenas e médias empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços e Footer.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias: HTML, CSS, JavaScript e ScrollReveal.
 
